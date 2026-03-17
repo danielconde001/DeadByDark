@@ -39,7 +39,6 @@
 -define:PLATFORM_ARCH_64
 -define:UNITY_64
 -define:UNITY_INCLUDE_TESTS
--define:UNITY_ANALYTICS
 -define:ENABLE_AR
 -define:ENABLE_AUDIO
 -define:ENABLE_AUDIO_SCRIPTABLE_PIPELINE
@@ -200,6 +199,8 @@
 -r:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Managed/UnityEngine/UnityEditor.VFXModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Managed/UnityEngine/UnityEditor.VideoModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Managed/UnityEngine/UnityEditor.XRModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.AdaptivePerformanceModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll"
@@ -269,6 +270,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.VectorGraphicsModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll"
